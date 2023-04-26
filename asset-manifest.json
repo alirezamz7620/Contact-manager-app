@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contact-manager-app/static/css/main.9a4846db.css",
+    "main.js": "/Contact-manager-app/static/js/main.d250244b.js",
+    "static/media/Spinner.gif": "/Contact-manager-app/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/Contact-manager-app/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/Contact-manager-app/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/Contact-manager-app/index.html",
+    "main.9a4846db.css.map": "/Contact-manager-app/static/css/main.9a4846db.css.map",
+    "main.d250244b.js.map": "/Contact-manager-app/static/js/main.d250244b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4846db.css",
+    "static/js/main.d250244b.js"
+  ]
+}
