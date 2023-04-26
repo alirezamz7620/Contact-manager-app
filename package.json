@@ -1,4 +1,5 @@
 {
+  "homepage": "https://alirezamz7620.github.io/Contact-manager-app",
   "name": "contact-manager-app",
   "version": "0.1.0",
   "private": true,
@@ -45,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "concurrently": "^7.3.0"
+    "concurrently": "^7.3.0",
+    "gh-pages": "^4.0.0"
   }
 }
